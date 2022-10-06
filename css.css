@@ -1,3 +1,14 @@
-h1 {
-    color: rgb(41, 226, 35);
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+    background-color: aliceblue;
+    color: rgb(91, 55, 1);
+    font-family: 'Raleway', sans-serif;
+    font-size: 18 px;
+    font-weight: normal;
+}
+
+.info-text p {
+    font-style: oblique;
+    font-weight: 600;
 }
