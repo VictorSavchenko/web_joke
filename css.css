@@ -6,9 +6,29 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 18 px;
     font-weight: normal;
+
 }
 
 .info-text p {
     font-style: oblique;
     font-weight: 600;
+
+}
+
+.card {
+    border: 1px solid burlywood;
+    border-radius: 25px;
+
+}
+
+.bg-yelow {
+    background: #f8ebaa;
+}
+
+.bg-red {
+    background: rgb(238, 150, 150);
+}
+
+.bg-green {
+    background: #5dfc8f;
 }
