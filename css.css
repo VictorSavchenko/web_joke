@@ -9,16 +9,44 @@ body {
 
 }
 
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px #5dfc8f;
+
+}
+
+.info {
+    margin-bottom: 20px;
+}
+
 .info-text p {
     font-style: oblique;
     font-weight: 600;
+    margin: 0;
 
+}
+
+.info-text h4 {
+    margin-bottom: 10px;
 }
 
 .card {
     border: 1px solid burlywood;
     border-radius: 25px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
 
+}
+
+.card h2 {
+    margin-bottom: 10px;
 }
 
 .bg-yelow {
